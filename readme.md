@@ -1,5 +1,7 @@
 
-## Accounting App Laravel-5.5 Ajax CRUD
+## <a href="http://euronews.zzz.com.ua/public"> Accounting App Laravel-5.5 Ajax CRUD </a>
+Test: mail - admin@mail.ru
+      password - 111111
 
 ![accounting](https://user-images.githubusercontent.com/20218196/31861557-15f39d4e-b738-11e7-8890-64cdf3868571.jpg)
 
